@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.190eaa33.css",
-    "main.js": "/static/js/main.e0a1268b.js",
+    "main.js": "/static/js/main.b6911644.js",
     "static/js/14.2c300ae6.chunk.js": "/static/js/14.2c300ae6.chunk.js",
     "static/js/453.8f1639f7.chunk.js": "/static/js/453.8f1639f7.chunk.js",
     "static/media/Vazirmatn-RD-Bold.woff2": "/static/media/Vazirmatn-RD-Bold.e2bd4cea720e520f9075.woff2",
@@ -16,12 +16,12 @@
     "index.html": "/index.html",
     "static/media/IconPlus.svg": "/static/media/IconPlus.f8656ab170521b186416473880e03c1c.svg",
     "main.190eaa33.css.map": "/static/css/main.190eaa33.css.map",
-    "main.e0a1268b.js.map": "/static/js/main.e0a1268b.js.map",
+    "main.b6911644.js.map": "/static/js/main.b6911644.js.map",
     "14.2c300ae6.chunk.js.map": "/static/js/14.2c300ae6.chunk.js.map",
     "453.8f1639f7.chunk.js.map": "/static/js/453.8f1639f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.190eaa33.css",
-    "static/js/main.e0a1268b.js"
+    "static/js/main.b6911644.js"
   ]
 }
