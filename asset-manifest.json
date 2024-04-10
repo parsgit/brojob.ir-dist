@@ -1,18 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.faaecfdd.css",
-    "main.js": "/static/js/main.3708b1a2.js",
+    "main.css": "/static/css/main.aab95f44.css",
+    "main.js": "/static/js/main.552ebf2d.js",
     "static/js/14.2c300ae6.chunk.js": "/static/js/14.2c300ae6.chunk.js",
     "static/js/453.8f1639f7.chunk.js": "/static/js/453.8f1639f7.chunk.js",
+    "static/media/Vazirmatn-RD-Bold.woff2": "/static/media/Vazirmatn-RD-Bold.e2bd4cea720e520f9075.woff2",
+    "static/media/Vazirmatn-RD-ExtraLight.woff2": "/static/media/Vazirmatn-RD-ExtraLight.be64eb1b67a1bc2a9f25.woff2",
+    "static/media/Vazirmatn-RD-Medium.woff2": "/static/media/Vazirmatn-RD-Medium.09685d18483fbff84728.woff2",
+    "static/media/Vazirmatn-RD-SemiBold.woff2": "/static/media/Vazirmatn-RD-SemiBold.335f0b0ca04a0bf4e388.woff2",
+    "static/media/Vazirmatn-RD-Light.woff2": "/static/media/Vazirmatn-RD-Light.f5460975f05b305bf0f6.woff2",
+    "static/media/Vazirmatn-RD-ExtraBold.woff2": "/static/media/Vazirmatn-RD-ExtraBold.7797ad15e409ac90a6b7.woff2",
+    "static/media/Vazirmatn-RD-Thin.woff2": "/static/media/Vazirmatn-RD-Thin.3e24851be8eb8c6b3e98.woff2",
+    "static/media/Vazirmatn-RD-Black.woff2": "/static/media/Vazirmatn-RD-Black.3eae1fd0e45dfed53d1d.woff2",
+    "static/media/Vazirmatn-RD-Regular.woff2": "/static/media/Vazirmatn-RD-Regular.9f94310c4b27df4c34ba.woff2",
     "index.html": "/index.html",
     "static/media/IconPlus.svg": "/static/media/IconPlus.f8656ab170521b186416473880e03c1c.svg",
-    "main.faaecfdd.css.map": "/static/css/main.faaecfdd.css.map",
-    "main.3708b1a2.js.map": "/static/js/main.3708b1a2.js.map",
+    "main.aab95f44.css.map": "/static/css/main.aab95f44.css.map",
+    "main.552ebf2d.js.map": "/static/js/main.552ebf2d.js.map",
     "14.2c300ae6.chunk.js.map": "/static/js/14.2c300ae6.chunk.js.map",
     "453.8f1639f7.chunk.js.map": "/static/js/453.8f1639f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.faaecfdd.css",
-    "static/js/main.3708b1a2.js"
+    "static/css/main.aab95f44.css",
+    "static/js/main.552ebf2d.js"
   ]
 }
