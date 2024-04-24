@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b959cee6.css",
-    "main.js": "/static/js/main.ca1e5573.js",
+    "main.css": "/static/css/main.ce51f02b.css",
+    "main.js": "/static/js/main.7d9ee205.js",
     "static/js/14.2c300ae6.chunk.js": "/static/js/14.2c300ae6.chunk.js",
     "static/js/453.8f1639f7.chunk.js": "/static/js/453.8f1639f7.chunk.js",
     "static/media/Vazirmatn-RD-Bold.woff2": "/static/media/Vazirmatn-RD-Bold.e2bd4cea720e520f9075.woff2",
@@ -16,13 +16,13 @@
     "static/media/mighalam.ttf": "/static/media/mighalam.01ff7e859362ade3ba27.ttf",
     "index.html": "/index.html",
     "static/media/IconPlus.svg": "/static/media/IconPlus.f8656ab170521b186416473880e03c1c.svg",
-    "main.b959cee6.css.map": "/static/css/main.b959cee6.css.map",
-    "main.ca1e5573.js.map": "/static/js/main.ca1e5573.js.map",
+    "main.ce51f02b.css.map": "/static/css/main.ce51f02b.css.map",
+    "main.7d9ee205.js.map": "/static/js/main.7d9ee205.js.map",
     "14.2c300ae6.chunk.js.map": "/static/js/14.2c300ae6.chunk.js.map",
     "453.8f1639f7.chunk.js.map": "/static/js/453.8f1639f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b959cee6.css",
-    "static/js/main.ca1e5573.js"
+    "static/css/main.ce51f02b.css",
+    "static/js/main.7d9ee205.js"
   ]
 }
