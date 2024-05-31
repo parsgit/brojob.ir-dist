@@ -16,11 +16,11 @@ workbox.routing.registerRoute(
   /\.(?:js|css|html|woff2|ico|ttf)$/,
   workbox.strategies.networkFirst(),
 )
-workbox.routing.registerRoute(
-  'http://localhost:3000',
-//   workbox.strategies.networkFirst()
-  workbox.strategies.staleWhileRevalidate()
-)
+// workbox.routing.registerRoute(
+//   'http://localhost:3000',
+// //   workbox.strategies.networkFirst()
+//   workbox.strategies.staleWhileRevalidate()
+// )
 
 // workbox.routing.registerRoute(
 //   new RegExp('https://randomuser.me/api'),
